@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+alembic
+python-jose
+passlib
+python-multipart
+msgpack

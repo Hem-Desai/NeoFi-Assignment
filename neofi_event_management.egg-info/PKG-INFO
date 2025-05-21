@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: neofi-event-management
+Version: 0.1.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: sqlalchemy
+Requires-Dist: pydantic
+Requires-Dist: alembic
+Requires-Dist: python-jose
+Requires-Dist: passlib
+Requires-Dist: python-multipart
+Requires-Dist: msgpack
+Dynamic: requires-dist
